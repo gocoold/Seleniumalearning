@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37" started-at="2020-02-02T19:02:50 AEDT" finished-at="2020-02-02T19:02:50 AEDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37" started-at="2020-02-02T19:02:50 AEDT" finished-at="2020-02-02T19:02:50 AEDT">
+      <class name="goksselenium.logincheckTest">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:goksselenium.logincheckTest@2781e022]" name="logintest" duration-ms="8" started-at="2020-02-02T19:02:50 AEDT" finished-at="2020-02-02T19:02:50 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="passwordtest()[pri:0, instance:goksselenium.logincheckTest@2781e022]" name="passwordtest" duration-ms="1" started-at="2020-02-02T19:02:50 AEDT" finished-at="2020-02-02T19:02:50 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordtest -->
+        <test-method status="PASS" signature="usernamecheck()[pri:0, instance:goksselenium.logincheckTest@2781e022]" name="usernamecheck" duration-ms="0" started-at="2020-02-02T19:02:50 AEDT" finished-at="2020-02-02T19:02:50 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernamecheck -->
+      </class> <!-- goksselenium.logincheckTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
